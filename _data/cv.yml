@@ -92,6 +92,8 @@ cv:
         date: 2018
 
     Additional Information:
+      - label: Service
+        details: Reviewer for ICML 2026, NeurIPS 2026, ICLR 2027
       - label: Programming
         details: Python, C/C++, LaTeX
       - label: Languages
