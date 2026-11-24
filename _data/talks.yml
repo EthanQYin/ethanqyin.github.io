@@ -1,0 +1,53 @@
+# ============================================================
+# _data/talks.yml —— /talks/ 页面的数据（模板在 _pages/talks.md）
+#
+# 一条记录 = 一次报告。写在文件里的先后顺序无所谓：
+# 页面会按 date 从新到旧排序，并按年份分组。
+#
+#   date:     YYYY-MM-DD，会议（或报告）当天；页面上只显示 "月 年"
+#   event:    会议 / workshop / seminar 的名字
+#   location: 城市
+#   type:     普通口头报告不用写。写 poster 会在会议名后面加一个 POSTER 标签；
+#             其他值（比如 seminar）也会原样显示成标签
+#
+# date 在今天之后的条目会自动带 UPCOMING 标签（在浏览器里判断，过期自动消失）。
+#
+# 现在每条只列会议、地点和时间。以后想写题目或挂材料，可以给某一条加这些可选字段：
+#   title: "报告题目"（要加引号，题目带冒号时不加引号会让整个网站构建失败）
+#   paper / slides / poster / video: 完整 URL，或者 assets/pdf/ 里的文件名
+# ============================================================
+
+- date: 2027-04-22
+  event: POMS Annual Conference
+  location: Orlando, FL
+
+- date: 2026-12-10
+  event: Conference on Neural Information Processing Systems (NeurIPS)
+  location: Sydney, Australia
+  type: poster
+
+- date: 2026-11-01
+  event: INFORMS Annual Meeting
+  location: San Francisco, CA
+
+- date: 2026-07-21
+  event: INFORMS Revenue Management and Pricing (RMP) Section Conference
+  location: Ann Arbor, MI
+
+- date: 2026-07-13
+  event: MSOM Conference
+  location: Boston, MA
+
+- date: 2026-07-09
+  event: International Conference on Machine Learning (ICML)
+  location: Seoul, South Korea
+  type: poster
+
+- date: 2026-06-01
+  event: Theory and Practice of Differential Privacy (TPDP) Workshop
+  location: Boston, MA
+  type: poster
+
+- date: 2026-01-03
+  event: POMS-HK International Conference
+  location: Shenzhen, China
