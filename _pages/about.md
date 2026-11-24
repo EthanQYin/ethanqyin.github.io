@@ -31,4 +31,4 @@ My research sits at the interface of statistics, machine learning, and operation
 
 Before Chicago, I received my B.S. in Mathematics and Applied Mathematics from Peking University. During my undergraduate years I was fortunate to be advised by [Prof. Ruixun Zhang](https://ruixunzhang.com/), [Prof. Linjun Zhang](https://linjunz.github.io/), [Prof. Jing Dong](https://business.columbia.edu/faculty/people/jing-dong), and [Prof. Pengyi Shi](https://web.ics.purdue.edu/~shi178/). After graduating, I spent a summer as a visiting scholar at the University of Hong Kong, hosted by [Prof. Zhixi Wan](https://www.hkubs.hku.hk/people/zhixi-wan/) and [Prof. Xing Hu](https://www.xinghu.org/).
 
-I am always happy to talk about research or potential collaborations. Feel free to reach out at [qichuan@uchicago.edu](mailto:qichuan@uchicago.edu).
+I am always happy to talk about research or potential collaborations. Feel free to reach out at [qichuan@uchicago.edu](mailto:qichuan@uchicago.edu) or book a [coffee chat]({{ '/coffee-chat/' | relative_url }}).
