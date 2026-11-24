@@ -7,9 +7,12 @@
   margin: 2rem 0;
 }
 .coffee-chat-booking iframe {
+  --booking-width: min(920px, calc(100vw - 2rem));
   display: block;
-  width: 100%;
+  width: var(--booking-width);
+  max-width: none;
   height: 45rem;
+  margin-left: calc((100% - var(--booking-width)) / 2);
   border: 0;
 }
 @media (max-width: 576px) {
